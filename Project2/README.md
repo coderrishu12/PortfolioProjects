@@ -58,4 +58,6 @@ Some of the major insights derived from the dashboard include:
 - Visualize real-world business data effectively.
 
 ---
+<img width="1022" height="647" alt="Screenshot 2025-10-08 161117" src="https://github.com/user-attachments/assets/c4c385f2-2323-4aeb-9f98-d9cfa65e1a54" />
+
 
